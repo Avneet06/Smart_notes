@@ -11,14 +11,12 @@ Smart Notes is a web application that allows users to create, edit, and manage n
 - **Styling**: Tailwind CSS (optional)
 - **Backend**: Supabase (for authentication and DB)
 - **Database**: Supabase
-- **AI**: Hugging Face's Transformers or OpenAI's GPT API
 
 ## Features
 
 - **Login/Signup**: User authentication via Supabase.
 - **Dashboard**: Display notes in a paginated format.
 - **CRUD Operations**: Create, read, update, and delete notes.
-- **AI Summary**: Automatically generate a summary for each note.
 - **Search**: Search notes by title or tags.
 - **Manual Tagging**: Add custom tags to notes.
 
